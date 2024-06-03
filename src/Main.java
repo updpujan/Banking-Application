@@ -1,6 +1,3 @@
-//Name: Pujan Upadhyay
-//University Student Number: 2408612
-
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.BufferedReader;
@@ -649,8 +646,3 @@ public class Main{
     	}	
 	}
 }
-/*
- Code by: 	Pujan Upadhyay
- 			np03cs4a230284
- 			2408612
- */
